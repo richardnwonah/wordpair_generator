@@ -9,13 +9,13 @@ Flutter tutorial
 ## images
 
 ### home Screen
-![Home Screen](img\homeScreen.PNG)
+![Home Screen](img/homeScreen.PNG)
 
-### Fvourite Word
-![Fvourite Word](img\FavouriteWords.PNG)
+### Favourite Word
+![Favourite Word Selected](img/FavouriteWords.PNG)
 
 ### View Favourite Word Screen
-![View Favourite Word Screen](img\ViewFavouriteWordsScreen.PNG)
+![View Favourite Word Screen](img/ViewFavouriteWordsScreen.PNG)
 
 
 
